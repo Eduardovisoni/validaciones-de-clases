@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\windows\\desktop\\ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\misclases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\windows\\desktop\\ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\misclases\\furgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\furgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\windows\\desktop\\ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\windows\\desktop\\ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\misclases\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\windows\\desktop\\ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\misclases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\windows\\desktop\\ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\misclases\\carroelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\carroelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\windows\\desktop\\ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\p1bpoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\p1bpoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\windows\\desktop\\ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\interface\\ipiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\interface\\ipiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\windows\\desktop\\ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\misclases\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\Program.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\Program.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\Program.cs",
+              "RelativeToolTip": "p1bpoo\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:35:56.32Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "iPiloto.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\Interface\\iPiloto.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\Interface\\iPiloto.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\Interface\\iPiloto.cs",
+              "RelativeToolTip": "p1bpoo\\Interface\\iPiloto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:36:44.638Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "chofer.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\chofer.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\chofer.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\chofer.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\chofer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:39:39.781Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\Vehiculo.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\Vehiculo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwFoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:35:56.32Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "furgon.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\furgon.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\furgon.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\furgon.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\furgon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:47:58.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "panel.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\panel.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\panel.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\panel.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\panel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:49:42.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "moto.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\moto.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\moto.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\moto.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\moto.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:38:29.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarroElectrico.cs",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\CarroElectrico.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\CarroElectrico.cs",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\MisClases\\CarroElectrico.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\CarroElectrico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:35:56.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "p1bpoo.csproj",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\p1bpoo.csproj",
+              "RelativeDocumentMoniker": "p1bpoo\\p1bpoo.csproj",
+              "ToolTip": "C:\\Users\\WINDOWS\\Desktop\\Ejercicio en clase 22 marzo\\p1bpoo\\p1bpoo\\p1bpoo.csproj",
+              "RelativeToolTip": "p1bpoo\\p1bpoo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T13:39:19.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
